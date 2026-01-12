@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Theme colors -->
+    <color name="background_primary">#121212</color>
+    <color name="background_secondary">#1E1E1E</color>
+    <color name="background_elevated">#2C2C2C</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <color name="text_disabled">#666666</color>
+
+    <!-- Accent colors -->
+    <color name="accent_primary">#6200EE</color>
+    <color name="accent_secondary">#3700B3</color>
+    <color name="accent_variant">#BB86FC</color>
+
+    <!-- Status colors -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FFA726</color>
+    <color name="error">#F44336</color>
+
+    <!-- Launcher -->
+    <color name="ic_launcher_background">#6200EE</color>
+
+    <!-- Lyrics view colors -->
+    <color name="lyrics_normal">#FF888888</color>
+    <color name="lyrics_highlight">#FFFFFFFF</color>
+</resources>
